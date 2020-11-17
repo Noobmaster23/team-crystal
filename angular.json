@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "team-crystal"
+  "defaultProject": "team-crystal",
+  "cli": {
+    "analytics": "0f3d4ca9-4842-4ec1-8ed2-823141e5e195"
+  }
 }
